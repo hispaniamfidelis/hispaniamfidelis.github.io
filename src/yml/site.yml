@@ -1,7 +1,6 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Hispaniam Fidelis
+title: Hispaniam Fidelis | Patriotas sin excusas
+description: Una plataforma para contribuir en proyectos que mejoren España
 tags:
   - blog
   - template
@@ -10,15 +9,13 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Principal
     url: /
-  - title: About
+  - title: Sobre HF
     url: /about
-  - title: Contact
+  - title: Contacto
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+email: hispaniamfidelis@proton.me
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
