@@ -4,7 +4,7 @@
 
 ## ¿Quiénes somos?
 
-Un grupo de españoles con ambición de mejorar su patria. Un sitio para contribuir en proyectos que resuelvan problemas reales. Una plataforma para patriotas sin excusas. 
+Un grupo de españoles con ambición de mejorar su patria. Un sitio para contribuir en proyectos que ayuden a resolver problemas reales. Una plataforma para patriotas sin excusas.   
 
 ## Features
 
